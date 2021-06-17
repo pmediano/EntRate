@@ -1,0 +1,3 @@
+clear all;
+restoredefaultpath;
+startup
